@@ -32,7 +32,7 @@ Follow these steps to start using the template for your own project.
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/bigyanchap/Claude-Kickstarter
 ```
 
 Or simply copy/download the project folder.
